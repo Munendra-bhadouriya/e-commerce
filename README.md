@@ -15,7 +15,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](/React_E-Commerce-main/public/assets/screenshot.png)
+![App Screenshot](e-commerce/public/assets/screenshot.png)
 
 
 
